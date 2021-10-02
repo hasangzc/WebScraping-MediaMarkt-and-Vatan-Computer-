@@ -1,0 +1,921 @@
+[
+  {"product_id": "REDMI_9T_128_BLUE",
+    "product_name": "XIAOMI REDMI 9T 128 GB AKILLI TELEFON MAVİ",
+    "product_prices": "2.799"
+  },
+  {
+  "product_id": "REDMI_9T_128_GRY",
+  "product_name": "XIAOMI REDMI 9T 128 GB AKILLI TELEFON GRİ",
+  "product_prices": "2.799"
+  },
+  {
+  "product_id": "SM-A725FZKGTUR",
+  "product_name": "Samsung Galaxy A72 128 GB Akıllı Telefon Siyah",
+  "product_prices": "5.199"
+  },
+  {
+  "product_id": "SM-G780GZBDTUR",
+  "product_name": "SAMSUNG GALAXY S20 FE 128 GB LACİVERT TELEFON",
+  "product_prices": "5.499"
+  },
+  {
+  "product_id": "REDMI_9C_32_GRAY",
+  "product_name": "XIAOMI REDMI 9C 32 GB AKILLI TELEFON GRI",
+  "product_prices": "1.709"
+  },
+  {
+  "product_id": "MHDA3TU/A",
+  "product_name": "iPhone  11 64 GB AKILLI TELEFON SİYAH",
+  "product_prices": "7.599"
+  },
+  {
+  "product_id": "MHDC3TU/A",
+  "product_name": "iPhone  11 64 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "7.599"
+  },
+  {
+  "product_id": "CPH2219/PS",
+  "product_name": "OPPO A74 128GB AKILLI TELEFON PRİZMA SİYAHI",
+  "product_prices": "3.249"
+  },
+  {
+  "product_id": "MHDH3TU/A",
+  "product_name": "iPhone  11 128 GB AKILLI TELEFON SİYAH",
+  "product_prices": "8.099"
+  },
+  {
+  "product_id": "SM-A217FZBUTUR",
+  "product_name": "SAMSUNG GALAXY A21S 128 GB AKILLI TELEFON MAVİ",
+  "product_prices": "3.099"
+  },
+  {
+  "product_id": "MHDM3TU/A",
+  "product_name": "iPhone 11 128 GB AKILLI TELEFON MOR",
+  "product_prices": "8.099"
+  },
+  {
+  "product_id": "MHDJ3TU/A",
+  "product_name": "iPhone  11 128 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "8.099"
+  },
+  {
+  "product_id": "SM-A725FZWGTUR",
+  "product_name": "SAMSUNG GALAXY A72 128 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "5.199"
+  },
+  {
+  "product_id": "REDMI_9T_128_GRN",
+  "product_name": "XIAOMI REDMI 9T 128 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "2.799"
+  },
+  {
+  "product_id": "SM-A125FZKHTUR",
+  "product_name": "SAMSUNG GALAXY A12 128 GB AKILLI TELEFON SİYAH",
+  "product_prices": "2.899"
+  },
+  {
+  "product_id": "MHDF3TU/A",
+  "product_name": "iPhone  11 64 GB AKILLI TELEFON MOR",
+  "product_prices": "7.599"
+  },
+  {
+  "product_id": "MGE13TU/A",
+  "product_name": "iPhone 12 MİNİ 64 GB AKILLI TELEFON MAVİ",
+  "product_prices": "8.399"
+  },
+  {
+  "product_id": "REDMI_9C_32_BLUE",
+  "product_name": "XIAOMI REDMI 9C 32 GB AKILLI TELEFON MAVİ",
+  "product_prices": "1.709"
+  },
+  {
+  "product_id": "SM-A125FZBHTUR",
+  "product_name": "SAMSUNG GALAXY A12 128 GB AKILLI TELEFON MAVİ",
+  "product_prices": "2.899"
+  },
+  {
+  "product_id": "REDMI_9C_64_GRI",
+  "product_name": "XIAOMI REDMI 9C 64 GB AKILLI TELEFON GRİ",
+  "product_prices": "2.159"
+  },
+  {
+  "product_id": "SM-A725FZBGTUR",
+  "product_name": "SAMSUNG GALAXY A72 128 GB AKILLI TELEFON MAVİ",
+  "product_prices": "5.199"
+  },
+  {
+  "product_id": "REDMI_9T_128_ORNG",
+  "product_name": "XIAOMI REDMI 9T 128 GB AKILLI TELEFON TURUNCU",
+  "product_prices": "2.799"
+  },
+  {
+  "product_id": "CPH2185/DS",
+  "product_name": "OPPO A15 32GB AKILLI TELEFON DİNAMİK SİYAH",
+  "product_prices": "2.199"
+  },
+  {
+  "product_id": "MGD93TU/A",
+  "product_name": "iPhone 12 PRO MAX 128 GB  AKILLI TELEFON ALTIN",
+  "product_prices": "16.099"
+  },
+  {
+  "product_id": "MGDX3TU/A",
+  "product_name": "iPhone 12 MİNİ 64 GB AKILLI TELEFON SİYAH",
+  "product_prices": "8.399"
+  },
+  {
+  "product_id": "SM-G780GZWDTUR",
+  "product_name": "SAMSUNG GALAXY S20 FE 128 GB BEYAZ TELEFON",
+  "product_prices": "5.499"
+  },
+  {
+  "product_id": "SM-A725FLVGTUR",
+  "product_name": "SAMSUNG GALAXY A72 128 GB AKILLI TELEFON AÇIK MOR",
+  "product_prices": "5.199"
+  },
+  {
+  "product_id": "CPH2185/GM",
+  "product_name": "OPPO A15 32GB AKILLI TELEFON GİZEMLİ MAVİ",
+  "product_prices": "2.199"
+  },
+  {
+  "product_id": "GM21_SNG_BLACK",
+  "product_name": "GENERAL MOBİLE GM21 TEK SİM AKILLI TELEFON SİYAH",
+  "product_prices": "1.599"
+  },
+  {
+  "product_id": "CPH2205/SS",
+  "product_name": "OPPO RENO 5 LITE 128 GB AKILLI TELEFON SONSUZ SİYAH",
+  "product_prices": "3.999"
+  },
+  {
+  "product_id": "SM-G780GZGDTUR",
+  "product_name": "SAMSUNG GALAXY S20 FE 128 GB MİNT YEŞİLİ TELEFON",
+  "product_prices": "5.499"
+  },
+  {
+  "product_id": "GM21_SNG_DBLUE",
+  "product_name": "GENERAL MOBİLE GM21 TEK SİM AKILLI TELEFON KOYU MAVİ",
+  "product_prices": "1.599"
+  },
+  {
+  "product_id": "CTGM2064MB01",
+  "product_name": "GENERAL MOBİLE GM20 TEK SİM AKILLI TELEFON GECE YARISI MAVİSİ",
+  "product_prices": "1.799"
+  },
+  {
+  "product_id": "MGDL3TU/A",
+  "product_name": "iPhone 12 PRO MAX 512 GB  AKILLI TELEFON PASİFİK MAVİ",
+  "product_prices": "18.499"
+  },
+  {
+  "product_id": "MGD73TU/A",
+  "product_name": "iPhone 12 PRO MAX 128 GB  AKILLI TELEFON GRAFİT",
+  "product_prices": "16.099"
+  },
+  {
+  "product_id": "MGJC3TU/A",
+  "product_name": "iPhone 12 128 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "11.249"
+  },
+  {
+  "product_id": "MHDG3TU/A",
+  "product_name": "iPhone  11 64 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "7.599"
+  },
+  {
+  "product_id": "GM21_SNG_LBLUE",
+  "product_name": "GENERAL MOBİLE GM21 TEK SİM AKILLI TELEFON AÇIK MAVİ",
+  "product_prices": "1.599"
+  },
+  {
+  "product_id": "MHDD3TU/A",
+  "product_name": "iPhone  11 64 GB AKILLI TELEFON KIRMIZI",
+  "product_prices": "7.599"
+  },
+  {
+  "product_id": "C25-SU MAVİSİ",
+  "product_name": "REALME C25 4 GB RAM 64 GB AKILLI TELEFON SU MAVİSİ",
+  "product_prices": "2.599"
+  },
+  {
+  "product_id": "CPH2239/KS",
+  "product_name": "OPPO A54 128GB AKILLI TELEFON KRİSTAL SİYAH",
+  "product_prices": "2.999"
+  },
+  {
+  "product_id": "CPH2179/GM",
+  "product_name": "OPPO A15S 64 GB AKILLI TELEFON GİZEMLİ MAVİ",
+  "product_prices": "2.599"
+  },
+  {
+  "product_id": "SM-A125FZWHTUR",
+  "product_name": "SAMSUNG GALAXY A12 128 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "2.899"
+  },
+  {
+  "product_id": "Y70_MAVİ",
+  "product_name": "VİVO Y70 128 GB AKILLI TELEFON OKSİJEN MAVİ",
+  "product_prices": "3.149"
+  },
+  {
+  "product_id": "C21_MAVİ",
+  "product_name": "REALME C21 3 GB RAM 32 GB AKILLI TELEFON BOĞAZ MAVİSİ",
+  "product_prices": "1.999"
+  },
+  {
+  "product_id": "REDMI_NOTE10S_64_GREY",
+  "product_name": "REDMI NOTE 10S 64 GB AKILLI TELEFON GRI",
+  "product_prices": "3.549"
+  },
+  {
+  "product_id": "REDMI_NOTE10S_64_BLUE",
+  "product_name": "REDMI NOTE 10S 64 GB AKILLI TELEFON MAVİ",
+  "product_prices": "3.549"
+  },
+  {
+  "product_id": "REDMI_9C_32_ORNG",
+  "product_name": "XIAOMI REDMI 9C 32 GB AKILLI TELEFON TURUNCU",
+  "product_prices": "1.709"
+  },
+  {
+  "product_id": "C21_SİYAH_4_64",
+  "product_name": "REALME C21 4 GB RAM 64 GB AKILLI TELEFON SİYAH",
+  "product_prices": "2.299"
+  },
+  {
+  "product_id": "GM21_DUAL_BLACK",
+  "product_name": "GENERAL MOBİLE GM21 ÇİFT SİM AKILLI TELEFON SİYAH",
+  "product_prices": "1.599"
+  },
+  {
+  "product_id": "CPH2219/GM",
+  "product_name": "OPPO A74 128GB AKILLI TELEFON GECE MAVİSİ",
+  "product_prices": "3.249"
+  },
+  {
+  "product_id": "REDMI_9C_64_BLUE",
+  "product_name": "XIAOMI REDMI 9C 64 GB AKILLI TELEFON MAVİ",
+  "product_prices": "2.159"
+  },
+  {
+  "product_id": "REDMI_9C_64_ORN",
+  "product_name": "XIAOMI REDMI 9C 64 GB AKILLI TELEFON TURUNCU",
+  "product_prices": "2.159"
+  },
+  {
+  "product_id": "MHDQ3TU/A",
+  "product_name": "iPhone  11 256 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "8.999"
+  },
+  {
+  "product_id": "MGD83TU/A",
+  "product_name": "iPhone 12 PRO MAX 128 GB  AKILLI TELEFON GÜMÜŞ",
+  "product_prices": "16.099"
+  },
+  {
+  "product_id": "MGDY3TU/A",
+  "product_name": "iPhone 12 MİNİ 64 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "8.399"
+  },
+  {
+  "product_id": "MGJ53TU/A",
+  "product_name": "iPhone 12 64 GB AKILLI TELEFON SİYAH",
+  "product_prices": "10.699"
+  },
+  {
+  "product_id": "XIAOMI_MI11_LITE_SİYAH",
+  "product_name": "XIAOMI MI11 LITE 128 GB AKILLI TELEFON SİYAH",
+  "product_prices": "4.364"
+  },
+  {
+  "product_id": "CPH2239/YM",
+  "product_name": "OPPO A54 128GB AKILLI TELEFON YILDIZLI MAVİ",
+  "product_prices": "2.999"
+  },
+  {
+  "product_id": "CPH2205/M",
+  "product_name": "OPPO RENO 5 LITE 128 GB AKILLI TELEFON AURORA MORU",
+  "product_prices": "3.999"
+  },
+  {
+  "product_id": "SM-G998BZSGTUR",
+  "product_name": "SAMSUNG GALAXY S21 ULTRA 5G 256 GB AKILLI TELEFON FANTOM GÜMÜŞ",
+  "product_prices": "15.499"
+  },
+  {
+  "product_id": "CTGM2064MR01",
+  "product_name": "GENERAL MOBİLE GM20 TEK SİM AKILLI TELEFON GECE YARISI KIRMIZISI",
+  "product_prices": "1.799"
+  },
+  {
+  "product_id": "MGMW3TU/A",
+  "product_name": "iPhone 12 PRO 512 GB  AKILLI TELEFON ALTIN",
+  "product_prices": "16.499"
+  },
+  {
+  "product_id": "MGMM3TU/A\r",
+  "product_name": "iPhone 12 PRO 128 GB  AKILLI TELEFON ALTIN",
+  "product_prices": "14.599"
+  },
+  {
+  "product_id": "MGJD3TU/A",
+  "product_name": "iPhone 12 128 GB AKILLI TELEFON KIRMIZI",
+  "product_prices": "11.249"
+  },
+  {
+  "product_id": "MGJ63TU/A",
+  "product_name": "iPhone 12 64 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "10.699"
+  },
+  {
+  "product_id": "MGMK3TU/A",
+  "product_name": "iPhone 12 PRO 128 GB  AKILLI TELEFON GRAFİT",
+  "product_prices": "14.599"
+  },
+  {
+  "product_id": "V21_SİYAH",
+  "product_name": "VİVO V21 128 GB AKILLI TELEFON GÜNBATIMI RİTMİ",
+  "product_prices": "4.769"
+  },
+  {
+  "product_id": "V21_MAVİ",
+  "product_name": "VİVO V21 128 GB AKILLI TELEFON ALACAKARANLIK MAVİSİ",
+  "product_prices": "4.769"
+  },
+  {
+  "product_id": "C21_MAVİ_4_64",
+  "product_name": "REALME C21 4 GB RAM 64 GB AKILLI TELEFON MAVİ",
+  "product_prices": "2.299"
+  },
+  {
+  "product_id": "GM21_PLUS_SNG_DGRAY",
+  "product_name": "GENERAL MOBİLE GM21 PLUS TEK SİM AKILLI TELEFON KOYU GRİ",
+  "product_prices": "1.999"
+  },
+  {
+  "product_id": "C21_SİYAH",
+  "product_name": "REALME C21 3 GB RAM 32 GB AKILLI TELEFON DEM SİYAHI",
+  "product_prices": "1.999"
+  },
+  {
+  "product_id": "CPH2179/DS",
+  "product_name": "OPPO A15S 64 GB AKILLI TELEFON DİNAMİK SİYAH",
+  "product_prices": "2.599"
+  },
+  {
+  "product_id": "MHDR3TU/A",
+  "product_name": "iPhone 11 256 GB AKILLI TELEFON KIRMIZI",
+  "product_prices": "8.999"
+  },
+  {
+  "product_id": "MHDP3TU/A",
+  "product_name": "iPhone 11 256 GB AKILLI TELEFON SİYAH",
+  "product_prices": "8.999"
+  },
+  {
+  "product_id": "MHDN3TU/A",
+  "product_name": "iPhone 11 128 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "8.099"
+  },
+  {
+  "product_id": "MHDK3TU/A",
+  "product_name": "iPhone 11 128 GB AKILLI TELEFON KIRMIZI",
+  "product_prices": "8.099"
+  },
+  {
+  "product_id": "PSMART21/BLK/4/128",
+  "product_name": "HUAWEI P SMART 2021 128 GB GECE YARISI SİYAHI",
+  "product_prices": "3.399"
+  },
+  {
+  "product_id": "MGDK3TU/A",
+  "product_name": "iPhone 12 PRO MAX 512 GB  AKILLI TELEFON ALTIN",
+  "product_prices": "18.499"
+  },
+  {
+  "product_id": "MGDG3TU/A",
+  "product_name": "iPhone 12 PRO MAX 512 GB  AKILLI TELEFON GRAFİT",
+  "product_prices": "18.499"
+  },
+  {
+  "product_id": "MGMQ3TU/A",
+  "product_name": "iPhone 12 PRO 256 GB  AKILLI TELEFON GÜMÜŞ",
+  "product_prices": "14.985"
+  },
+  {
+  "product_id": "MGMP3TU/A",
+  "product_name": "iPhone 12 PRO 256 GB  AKILLI TELEFON GRAFİT",
+  "product_prices": "14.985"
+  },
+  {
+  "product_id": "MGMN3TU/A",
+  "product_name": "iPhone 12 PRO 128 GB  AKILLI TELEFON PASİFİK MAVİ",
+  "product_prices": "14.599"
+  },
+  {
+  "product_id": "MGJ83TU/A",
+  "product_name": "iPhone 12 64 GB AKILLI TELEFON MAVİ",
+  "product_prices": "10.699"
+  },
+  {
+  "product_id": "P40LMBLACK/6/128",
+  "product_name": "HUAWEI P40 LITE 128 GB AKILLI TELEFON",
+  "product_prices": "3.799"
+  },
+  {
+  "product_id": "REDMI_NOTE10S_128_BLUE",
+  "product_name": "REDMI NOTE 10S 128 GB AKILLI TELEFON MAVİ",
+  "product_prices": "3.799"
+  },
+  {
+  "product_id": "SM-G780GLVDTUR",
+  "product_name": "SAMSUNG GALAXY S20 FE 128 GB LAVANTA TELEFON",
+  "product_prices": "5.499"
+  },
+  {
+  "product_id": "XIAOMI_MI11_LITE_MAVİ",
+  "product_name": "XIAOMI MI 11 LITE 128 GB AKILLI TELEFON MAVİ",
+  "product_prices": "4.364"
+  },
+  {
+  "product_id": "C25-SU GRİSİ",
+  "product_name": "REALME C25 4 GB RAM 64 GB AKILLI TELEFON SU GRİSİ",
+  "product_prices": "2.599"
+  },
+  {
+  "product_id": "GM21_PLUS_SNG_GREEN",
+  "product_name": "GENERAL MOBİLE GM21 PLUS TEK SİM AKILLI TELEFON YEŞİL",
+  "product_prices": "1.999"
+  },
+  {
+  "product_id": "SM-F926BZSDTUR",
+  "product_name": "SAMSUNG GALAXY Z FOLD3 5G 256 GB AKILLI TELEFON GÜMÜŞ",
+  "product_prices": "21.999"
+  },
+  {
+  "product_id": "TECNO_POVA_128_BLCK",
+  "product_name": "TECNO POVA 128 GB AKILLI TELEFON SİYAH",
+  "product_prices": "2.699"
+  },
+  {
+  "product_id": "MI11-LIT-6-128-PNK",
+  "product_name": "XIAOMI MI11 LITE 128 GB AKILLI TELEFON PEMBE",
+  "product_prices": "4.364"
+  },
+  {
+  "product_id": "MJNM3TU/A",
+  "product_name": "iPhone 12 64 GB AKILLI TELEFON MOR",
+  "product_prices": "10.699"
+  },
+  {
+  "product_id": "Y20S_MAVİ",
+  "product_name": "VİVO Y20s 128 GB AKILLI TELEFON NEBULA MAVİ",
+  "product_prices": "2.609"
+  },
+  {
+  "product_id": "6941399032620",
+  "product_name": "REALME C15 64 GB AKILLI TELEFON MARİNA MAVİSİ",
+  "product_prices": "2.499"
+  },
+  {
+  "product_id": "SM-G998BZKDTUR",
+  "product_name": "SAMSUNG GALAXY S21 ULTRA 5G 128 GB AKILLI TELEFON FANTOM SİYAH",
+  "product_prices": "14.999"
+  },
+  {
+  "product_id": "SM-G996BZKDTUR",
+  "product_name": "SAMSUNG GALAXY S21 PLUS 5G 128 GB AKILLI TELEFON FANTOM SİYAH",
+  "product_prices": "11.499"
+  },
+  {
+  "product_id": "SM-G991BZWDTUR",
+  "product_name": "SAMSUNG GALAXY S21 5G 128 GB AKILLI TELEFON FANTOM BEYAZ",
+  "product_prices": "8.999"
+  },
+  {
+  "product_id": "Y20_MAVİ",
+  "product_name": "VİVO Y20 64 GB AKILLI TELEFON NEBULA MAVİ",
+  "product_prices": "2.204"
+  },
+  {
+  "product_id": "Y20_SİYAH",
+  "product_name": "VİVO Y20 64 GB AKILLI TELEFON OBSİDİAN SİYAH",
+  "product_prices": "2.204"
+  },
+  {
+  "product_id": "Y70_SİYAH",
+  "product_name": "VİVO Y70 128 GB AKILLI TELEFON GRAVİTY SİYAH",
+  "product_prices": "3.149"
+  },
+  {
+  "product_id": "MHDE3TU/A",
+  "product_name": "iPhone  11 64 GB AKILLI TELEFON SARI",
+  "product_prices": "7.599"
+  },
+  {
+  "product_id": "MHDV3TU/A",
+  "product_name": "iPhone  11 256 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "8.999"
+  },
+  {
+  "product_id": "MHDL3TU/A",
+  "product_name": "iPhone 11 128 GB AKILLI TELEFON SARI",
+  "product_prices": "8.099"
+  },
+  {
+  "product_id": "PSMART21/GLD/4/128",
+  "product_name": "HUAWEI P SMART 2021 128 GB PEMBE ALTIN",
+  "product_prices": "3.399"
+  },
+  {
+  "product_id": "MGDH3TU/A",
+  "product_name": "iPhone 12 PRO MAX 512 GB  AKILLI TELEFON GÜMÜŞ",
+  "product_prices": "18.499"
+  },
+  {
+  "product_id": "MGMR3TU/A",
+  "product_name": "iPhone 12 PRO 256 GB  AKILLI TELEFON ALTIN",
+  "product_prices": "14.985"
+  },
+  {
+  "product_id": "MGE03TU/A",
+  "product_name": "iPhone 12 MİNİ 64 GB AKILLI TELEFON KIRMIZI",
+  "product_prices": "8.399"
+  },
+  {
+  "product_id": "MGJK3TU/A",
+  "product_name": "iPhone 12 256 GB AKILLI TELEFON MAVİ",
+  "product_prices": "12.499"
+  },
+  {
+  "product_id": "MGJ73TU/A",
+  "product_name": "iPhone 12 64 GB AKILLI TELEFON KIRMIZI",
+  "product_prices": "10.699"
+  },
+  {
+  "product_id": "MLK03TU/A",
+  "product_name": "iPhone 13 Mini 128 GB Akıllı Telefon Gece Yarısı",
+  "product_prices": "10.999"
+  },
+  {
+  "product_id": "MLV93TU/A",
+  "product_name": "iPhone 13 Pro 128 GB Akıllı Telefon Grafit",
+  "product_prices": "15.999"
+  },
+  {
+  "product_id": "MLL63TU/A",
+  "product_name": "iPhone 13 Pro Max 128 GB Akıllı Telefon Grafit",
+  "product_prices": "17.999"
+  },
+  {
+  "product_id": "MLPF3TU/A",
+  "product_name": "iPhone 13 128 Gb Siyah",
+  "product_prices": "11.999"
+  },
+  {
+  "product_id": "REDMI_NOTE10S_64_WHITE",
+  "product_name": "REDMI NOTE 10S 64 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "3.549"
+  },
+  {
+  "product_id": "SM-F711BLVATUR",
+  "product_name": "SAMSUNG GALAXY Z FLIP3 5G 128 GB AKILLI TELEFON MOR",
+  "product_prices": "11.999"
+  },
+  {
+  "product_id": "SM-F711BZKATUR",
+  "product_name": "SAMSUNG GALAXY Z FLIP3 5G 128 GB AKILLI TELEFON SİYAH",
+  "product_prices": "11.999"
+  },
+  {
+  "product_id": "SM-F711BZGATUR",
+  "product_name": "SAMSUNG GALAXY Z FLIP3 5G 128 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "11.999"
+  },
+  {
+  "product_id": "SM-F711BZEATUR",
+  "product_name": "SAMSUNG GALAXY Z FLIP3 5G 128 GB AKILLI TELEFON BEJ",
+  "product_prices": "11.999"
+  },
+  {
+  "product_id": "SM-F926BZKDTUR",
+  "product_name": "Samsung Galaxy Z Fold3 5G 256 GB Akıllı Telefon Siyah",
+  "product_prices": "21.999"
+  },
+  {
+  "product_id": "SM-F926BZGDTUR",
+  "product_name": "SAMSUNG GALAXY Z FOLD3 5G 256 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "21.999"
+  },
+  {
+  "product_id": "TECNO_SPARKGO_64_GREEN",
+  "product_name": "TECNO SPARK GO 64 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "1.889"
+  },
+  {
+  "product_id": "V21E_SİYAH",
+  "product_name": "VİVO V21e 128 GB AKILLI TELEFON ROMA SİYAHI",
+  "product_prices": "4.229"
+  },
+  {
+  "product_id": "V21E_MAVİ",
+  "product_name": "VİVO V21e 128 GB AKILLI TELEFON ELMAS YANSIMASI (MAVİ)",
+  "product_prices": "4.229"
+  },
+  {
+  "product_id": "T810H-2ALCTR12",
+  "product_name": "TCL 20 PRO 6/256 GB AKILLI TELEFON MAVİ",
+  "product_prices": "8.499"
+  },
+  {
+  "product_id": "T810H-2BLCTR12",
+  "product_name": "TCL 20 PRO 6/256 GB AKILLI TELEFON GRAY",
+  "product_prices": "8.499"
+  },
+  {
+  "product_id": "T775H-2ALCTR12",
+  "product_name": "TCL 20L PLUS 6/256 GB AKILLI TELEFON SİYAH",
+  "product_prices": "4.199"
+  },
+  {
+  "product_id": "T766H-2ALCTR12",
+  "product_name": "TCL 10 SE 4/128 GB AKILLI TELEFON GECE MAVİSİ",
+  "product_prices": "3.199"
+  },
+  {
+  "product_id": "T766H-2BLCTR12",
+  "product_name": "TCL 10 SE 4/128 GB AKILLI TELEFON GÜMÜŞ",
+  "product_prices": "3.199"
+  },
+  {
+  "product_id": "T671H-ABLCTR12",
+  "product_name": "TCL 20 SE 4/64 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "2.999"
+  },
+  {
+  "product_id": "T671H-AALCTR12",
+  "product_name": "TCL 20 SE 4/ 64 GB AKILLI TELEFON SİYAH",
+  "product_prices": "2.999"
+  },
+  {
+  "product_id": "TECNO_CAMON16_128_WHITE",
+  "product_name": "TECNO CAMON16  128 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "3.149"
+  },
+  {
+  "product_id": "TECNO_CAMON16_128_BLUE",
+  "product_name": "TECNO CAMON16 128 GB AKILLI TELEFON MAVİ",
+  "product_prices": "3.149"
+  },
+  {
+  "product_id": "TECNO_CAMON16_128_GRAY",
+  "product_name": "TECNO CAMON16 128 GB AKILLI TELEFON GRİ",
+  "product_prices": "3.149"
+  },
+  {
+  "product_id": "TECNO_SPARK_128_ORNG",
+  "product_name": "TECNO SPARK 128 GB AKILLI TELEFON TURUNCU",
+  "product_prices": "2.519"
+  },
+  {
+  "product_id": "TECNO_SPARK_128_VIOLET",
+  "product_name": "TECNO SPARK 128 GB AKILLI TELEFON MENEKŞE",
+  "product_prices": "2.519"
+  },
+  {
+  "product_id": "REDMI-NT10PR-128GR",
+  "product_name": "XIAOMI NOTE 10 PRO 128 GB AKILLI TELEFON GRİ",
+  "product_prices": "4.799"
+  },
+  {
+  "product_id": "REDMI-NT10PR-128BR",
+  "product_name": "XIAOMI NOTE 10 PRO 128 GB AKILLI TELEFON BRONZ",
+  "product_prices": "4.799"
+  },
+  {
+  "product_id": "Y11s_MAVİ",
+  "product_name": "VİVO Y11s 32 GB BUZUL MAVİSİ AKILLI TELEFON",
+  "product_prices": "1.979"
+  },
+  {
+  "product_id": "Y11s_SİYAH",
+  "product_name": "VİVO Y11s 32 GB FANTOM SİYAHI AKILLI TELEFON",
+  "product_prices": "1.979"
+  },
+  {
+  "product_id": "XIAOMI_REDMI_NOTE10_64_GREEN",
+  "product_name": "XIAOMI REDMI NOTE 10 64 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "3.799"
+  },
+  {
+  "product_id": "GM21_PRO_SNG_DGRAY",
+  "product_name": "GENERAL MOBİLE GM21 PRO TEK SİM AKILLI TELEFON KOYU GRİ",
+  "product_prices": "2.799"
+  },
+  {
+  "product_id": "GM21_PRO_SNG_MAVİ",
+  "product_name": "GENERAL MOBİLE GM21 PRO TEK SİM AKILLI TELEFON MAVİ",
+  "product_prices": "2.799"
+  },
+  {
+  "product_id": "CPH2159/IS",
+  "product_name": "OPPO RENO 5 128 GB AKILLI TELEFON IŞILTILI SİYAH",
+  "product_prices": "4.999"
+  },
+  {
+  "product_id": "Y20S_SİYAH",
+  "product_name": "VİVO Y20s 128 GB AKILLI TELEFON OBSİDİAN SİYAH",
+  "product_prices": "2.609"
+  },
+  {
+  "product_id": "SM-A022FZRDTUR",
+  "product_name": "SAMSUNG GALAXY A02 32 GB AKILLI TELEFON KIRMIZI",
+  "product_prices": "2.199"
+  },
+  {
+  "product_id": "SM-A022FZKDTUR",
+  "product_name": "SAMSUNG GALAXY A02 32 GB AKILLI TELEFON SİYAH",
+  "product_prices": "2.199"
+  },
+  {
+  "product_id": "SM-A022FZBDTUR",
+  "product_name": "SAMSUNG GALAXY A02 32 GB AKILLI TELEFON MAVİ",
+  "product_prices": "2.199"
+  },
+  {
+  "product_id": "TECNO_CAMON_16_128_GRAY",
+  "product_name": "TECNO CAMON16 Premier 128 GB AKILLI TELEFON GRİ",
+  "product_prices": "3.599"
+  },
+  {
+  "product_id": "TECNO_POVA_128_PURPLE",
+  "product_name": "TECNO POVA 128 GB AKILLI TELEFON MOR",
+  "product_prices": "2.699"
+  },
+  {
+  "product_id": "TECNO_POVA_128_BLUE",
+  "product_name": "TECNO POVA 128 GB AKILLI TELEFON MAVİ",
+  "product_prices": "2.699"
+  },
+  {
+  "product_id": "TECNO_SPARK_128_BLACK",
+  "product_name": "TECNO SPARK 128 GB AKILLI TELEFON SİYAH",
+  "product_prices": "2.519"
+  },
+  {
+  "product_id": "TECNO_SPARK_128_BLUE",
+  "product_name": "TECNO SPARK 128 GB AKILLI TELEFON MAVİ",
+  "product_prices": "2.519"
+  },
+  {
+  "product_id": "SM-A217FZWUTUR",
+  "product_name": "SAMSUNG GALAXY A21S 128 GB AKILLI TELEFON BEYAZ",
+  "product_prices": "3.099"
+  },
+  {
+  "product_id": "SM-A217FZKUTUR",
+  "product_name": "SAMSUNG GALAXY A21S 128 GB AKILLI TELEFON SİYAH",
+  "product_prices": "3.099"
+  },
+  {
+  "product_id": "SM-A025FZRFTUR",
+  "product_name": "SAMSUNG GALAXY A02s 64 GB AKILLI TELEFON KIRMIZI",
+  "product_prices": "2.599"
+  },
+  {
+  "product_id": "SM-A025FZKFTUR",
+  "product_name": "SAMSUNG GALAXY A02s 64 GB AKILLI TELEFON SİYAH",
+  "product_prices": "2.599"
+  },
+  {
+  "product_id": "SM-A025FZBFTUR",
+  "product_name": "SAMSUNG GALAXY A02s 64 GB AKILLI TELEFON MAVİ",
+  "product_prices": "2.599"
+  },
+  {
+  "product_id": "SM-G998BZKGTUR",
+  "product_name": "SAMSUNG GALAXY S21 ULTRA 5G 256 GB AKILLI TELEFON FANTOM SİYAH",
+  "product_prices": "15.499"
+  },
+  {
+  "product_id": "SM-G998BZSDTUR",
+  "product_name": "SAMSUNG GALAXY S21 ULTRA 5G 128 GB AKILLI TELEFON FANTOM GÜMÜŞ",
+  "product_prices": "14.999"
+  },
+  {
+  "product_id": "SM-G996BZVGTUR",
+  "product_name": "SAMSUNG GALAXY S21 PLUS 5G 256 GB AKILLI TELEFON FANTOM VİOLET",
+  "product_prices": "11.999"
+  },
+  {
+  "product_id": "SM-G996BZVDTUR",
+  "product_name": "SAMSUNG GALAXY S21 PLUS 5G 128 GB AKILLI TELEFON FANTOM VİOLET",
+  "product_prices": "11.499"
+  },
+  {
+  "product_id": "SM-G996BZSGTUR",
+  "product_name": "SAMSUNG GALAXY S21 PLUS 5G 256 GB AKILLI TELEFON FANTOM GÜMÜŞ",
+  "product_prices": "11.999"
+  },
+  {
+  "product_id": "SM-G996BZKGTUR",
+  "product_name": "SAMSUNG GALAXY S21 PLUS 5G 256 GB AKILLI TELEFON FANTOM SİYAH",
+  "product_prices": "11.999"
+  },
+  {
+  "product_id": "SM-G996BZSDTUR",
+  "product_name": "SAMSUNG GALAXY S21 PLUS 5G 128 GB AKILLI TELEFON FANTOM GÜMÜŞ",
+  "product_prices": "11.499"
+  },
+  {
+  "product_id": "SM-G991BZVDTUR",
+  "product_name": "SAMSUNG GALAXY S21 5G 128 GB AKILLI TELEFON FANTOM VİOLET",
+  "product_prices": "8.999"
+  },
+  {
+  "product_id": "SM-G991BZIDTUR",
+  "product_name": "SAMSUNG GALAXY S21 5G 128 GB AKILLI TELEFON FANTOM PEMBE",
+  "product_prices": "8.999"
+  },
+  {
+  "product_id": "MHDU3TU/A",
+  "product_name": "iPhone  11 256 GB AKILLI TELEFON MOR",
+  "product_prices": "8.999"
+  },
+  {
+  "product_id": "MHDT3TU/A",
+  "product_name": "iPhone 11 256 GB AKILLI TELEFON SARI",
+  "product_prices": "8.999"
+  },
+  {
+  "product_id": "PSMART21YESL/4/128",
+  "product_name": "HUAWEI P SMART 2021 128 GB TUTKU YEŞİLİ",
+  "product_prices": "3.399"
+  },
+  {
+  "product_id": "MGDD3TU/A",
+  "product_name": "iPhone 12 PRO MAX 256 GB  AKILLI TELEFON GÜMÜŞ",
+  "product_prices": "17.499"
+  },
+  {
+  "product_id": "MGMX3TU/A",
+  "product_name": "iPhone 12 PRO 512 GB  AKILLI TELEFON PASİFİK MAVİ",
+  "product_prices": "16.499"
+  },
+  {
+  "product_id": "MGMV3TU/A",
+  "product_name": "iPhone 12 PRO 512 GB  AKILLI TELEFON GÜMÜŞ",
+  "product_prices": "16.499"
+  },
+  {
+  "product_id": "MGMU3TU/A",
+  "product_name": "iPhone 12 PRO 512 GB  AKILLI TELEFON GRAFİT",
+  "product_prices": "16.499"
+  },
+  {
+  "product_id": "MGMT3TU/A",
+  "product_name": "iPhone 12 PRO 256 GB  AKILLI TELEFON PASİFİK MAVİ",
+  "product_prices": "14.985"
+  },
+  {
+  "product_id": "MGML3TU/A",
+  "product_name": "iPhone 12 PRO 128 GB  AKILLI TELEFON GÜMÜŞ",
+  "product_prices": "14.599"
+  },
+  {
+  "product_id": "MGE23TU/A",
+  "product_name": "iPhone 12 MİNİ 64 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "8.399"
+  },
+  {
+  "product_id": "MGJJ3TU/A",
+  "product_name": "iPhone 12 256 GB AKILLI TELEFON KIRMIZI",
+  "product_prices": "12.499"
+  },
+  {
+  "product_id": "MGJ93TU/A",
+  "product_name": "iPhone 12 64 GB AKILLI TELEFON YEŞİL",
+  "product_prices": "10.699"
+  },
+  {
+  "product_id": "GM_20PRO_MAVİ",
+  "product_name": "GENERAL MOBİLE GM20 PRO TEK SİM AKILLI TELEFON LOTUS MAVİ",
+  "product_prices": "2.299"
+  },
+  {
+  "product_id": "GM_20_YESIL",
+  "product_name": "GENERAL MOBİLE GM20 TEK SİM AKILLI TELEFON YEŞİM YEŞİLİ",
+  "product_prices": "1.799"
+  },
+  {
+  "product_id": "VİVO_X50LITE_SİYAH",
+  "product_name": "VİVO X50 LITE 128 GB AKILLI TELEFON ZÜMRÜT SİYAH",
+  "product_prices": "3.239"
+  },
+  {
+  "product_id": "VİVO_X50LITE_MAVI",
+  "product_name": "VİVO X50 LITE 128 GB AKILLI TELEFON NEBULA MAVİ",
+  "product_prices": "3.239"
+  }
+]

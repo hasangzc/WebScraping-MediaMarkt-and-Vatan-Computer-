@@ -1,0 +1,527 @@
+[
+  {
+     "product_id":"1216655",
+     "product_name":"TCL 20 SE 64GB Akıllı Telefon Nuit Siyah",
+     "product_prices":"2799.00"
+  },
+  {
+     "product_id":"1216128",
+     "product_name":"ONEPLUS 9 Pro 5G 256GB Akıllı Telefon Puslu Gümüş",
+     "product_prices":"15799.00"
+  },
+  {
+     "product_id":"1214772",
+     "product_name":"REALME C15 64GB Akıllı Telefon Marina Mavisi",
+     "product_prices":"2499.00"
+  },
+  {
+     "product_id":"1216309",
+     "product_name":"XIAOMI Redmi 9T 128GB Akıllı Telefon Yeşil",
+     "product_prices":"2799.00"
+  },
+  {
+     "product_id":"1211579",
+     "product_name":"ALCATEL 3X 2020 128GB Akıllı Telefon Koyu Yeşil",
+     "product_prices":"2399.00"
+  },
+  {
+     "product_id":"1214769",
+     "product_name":"OPPO A15 32GB Akıllı Telefon Gizemli Mavi",
+     "product_prices":"2099.00"
+  },
+  {
+     "product_id":"1215020",
+     "product_name":"SAMSUNG Galaxy A02 32GB Akıllı Telefon Kırmızı",
+     "product_prices":"2199.00"
+  },
+  {
+     "product_id":"1214770",
+     "product_name":"OPPO A15 32 GB Akıllı Telefon Dinamik Siyah",
+     "product_prices":"2099.00"
+  },
+  {
+     "product_id":"1215018",
+     "product_name":"SAMSUNG Galaxy A02 32GB Akıllı Telefon Mavi",
+     "product_prices":"2199.00"
+  },
+  {
+     "product_id":"1217073",
+     "product_name":"SAMSUNG Galaxy Z Flip3 5G 128GB Akıllı Telefon Bej",
+     "product_prices":"11999.00"
+  },
+  {
+     "product_id":"1215402",
+     "product_name":"OPPO Reno 5 Lite 128GB Akıllı Telefon Sonsuz Siyah",
+     "product_prices":"3699.00"
+  },
+  {
+     "product_id":"1215862",
+     "product_name":"OPPO A74 128GB Akıllı Telefon Gece Mavisi",
+     "product_prices":"3249.00"
+  },
+  {
+     "product_id":"1216310",
+     "product_name":"XIAOMI Redmi 9T 4GB/128GB Akıllı Telefon Gri",
+     "product_prices":"2799.00"
+  },
+  {
+     "product_id":"1217075",
+     "product_name":"SAMSUNG Galaxy Z Flip3 5G 128GB Akıllı Telefon Yeşil",
+     "product_prices":"11999.00"
+  },
+  {
+     "product_id":"1215854",
+     "product_name":"OPPO A54 128GB Akıllı Telefon Kristal Siyah",
+     "product_prices":"2999.00"
+  },
+  {
+     "product_id":"1215855",
+     "product_name":"OPPO A54 128GB Akıllı Telefon Yıldızlı Mavi",
+     "product_prices":"2999.00"
+  },
+  {
+     "product_id":"1215856",
+     "product_name":"OPPO A74 128GB Akıllı Telefon Prizma Siyahı",
+     "product_prices":"3249.00"
+  },
+  {
+     "product_id":"1215110",
+     "product_name":"VIVO Y20S 4/128GB Akıllı Telefon Obsidian Siyah",
+     "product_prices":"2899.00"
+  },
+  {
+     "product_id":"1214767",
+     "product_name":"OPPO A15s 64GB Akıllı Telefon Gizemli Mavi",
+     "product_prices":"2599.00"
+  },
+  {
+     "product_id":"1215109",
+     "product_name":"VIVO Y20S 4/128GB Akıllı Telefon Nebula Mavi",
+     "product_prices":"2899.00"
+  },
+  {
+     "product_id":"1214768",
+     "product_name":"OPPO A15s 64 GB Akıllı Telefon Dinamik Siyah",
+     "product_prices":"2599.00"
+  },
+  {
+     "product_id":"1211056",
+     "product_name":"XIAOMI Redmi 9A 32GB Akıllı Telefon Sky Blue",
+     "product_prices":"2197.00"
+  },
+  {
+     "product_id":"1216095",
+     "product_name":"XIAOMI MI11 Lite 6GB/128GB Akıllı Telefon Pembe",
+     "product_prices":"4449.00"
+  },
+  {
+     "product_id":"1211696",
+     "product_name":"SAMSUNG Galaxy S20 FE 128GB Akıllı Telefon Mavi",
+     "product_prices":"5399.00"
+  },
+  {
+     "product_id":"1215019",
+     "product_name":"SAMSUNG Galaxy A02 32GB Akıllı Telefon Siyah",
+     "product_prices":"2199.00"
+  },
+  {
+     "product_id":"1213828",
+     "product_name":"SAMSUNG Galaxy A12 128GB Akıllı Telefon Siyah",
+     "product_prices":"2899.00"
+  },
+  {
+     "product_id":"1216766",
+     "product_name":"TCL 20L Plus 256GB Akıllı Telefon Siyah",
+     "product_prices":"3999.00"
+  },
+  {
+     "product_id":"1213829",
+     "product_name":"SAMSUNG Galaxy A12 128GB Akıllı Telefon Mavi",
+     "product_prices":"2899.00"
+  },
+  {
+     "product_id":"1215401",
+     "product_name":"REALME C21 32GB Akıllı Telefon Boğaz Mavisi",
+     "product_prices":"1999.00"
+  },
+  {
+     "product_id":"1216088",
+     "product_name":"GENERAL MOBILE GM21 Plus 64GB Akıllı Telefon Koyu Gri",
+     "product_prices":"1999.00"
+  },
+  {
+     "product_id":"1216765",
+     "product_name":"TCL 20L Plus 256GB Akıllı Telefon Mavi ",
+     "product_prices":"3999.00"
+  },
+  {
+     "product_id":"1215077",
+     "product_name":"SAMSUNG Galaxy A72 128GB Akıllı Telefon Beyaz",
+     "product_prices":"5199.00"
+  },
+  {
+     "product_id":"1214746",
+     "product_name":"SAMSUNG Galaxy A02s Akıllı Telefon Kırmızı",
+     "product_prices":"2599.00"
+  },
+  {
+     "product_id":"1213827",
+     "product_name":"SAMSUNG Galaxy A12 128GB Akıllı Telefon Beyaz",
+     "product_prices":"2899.00"
+  },
+  {
+     "product_id":"1214747",
+     "product_name":"SAMSUNG Galaxy A02s 64GB Akıllı Telefon Siyah",
+     "product_prices":"2599.00"
+  },
+  {
+     "product_id":"1215400",
+     "product_name":"REALME C21 32GB Akıllı Telefon Dem Siyahı",
+     "product_prices":"1999.00"
+  },
+  {
+     "product_id":"1212818",
+     "product_name":"APPLE iPhone 12 Mini 64GB Akıllı Telefon Siyah",
+     "product_prices":"8399.00"
+  },
+  {
+     "product_id":"1216171",
+     "product_name":"VIVO Y11S 3/32GB Akıllı Telefon Mavi",
+     "product_prices":"2199.00"
+  },
+  {
+     "product_id":"1214186",
+     "product_name":"SAMSUNG Galaxy A21s 128 GB Akıllı Telefon Beyaz",
+     "product_prices":"3099.00"
+  },
+  {
+     "product_id":"1216041",
+     "product_name":"GENERAL MOBILE GM 21 Akıllı Telefon Siyah",
+     "product_prices":"1599.00"
+  },
+  {
+     "product_id":"1211580",
+     "product_name":"ALCATEL 3X 2020 128GB Akıllı Telefon Siyah",
+     "product_prices":"2399.00"
+  },
+  {
+     "product_id":"1217383",
+     "product_name":"XIAOMI Note10S 6GB/64GB 6.43\" 64MP Gri",
+     "product_prices":"3649.00"
+  },
+  {
+     "product_id":"1215896",
+     "product_name":"SAMSUNG Galaxy S20 FE Akıllı Telefon Lavender",
+     "product_prices":"5399.00"
+  },
+  {
+     "product_id":"1214748",
+     "product_name":"SAMSUNG Galaxy A02s 64GB Akıllı Telefon Mavi",
+     "product_prices":"2599.00"
+  },
+  {
+     "product_id":"1213311",
+     "product_name":"VIVO Y20 4/64GB Akıllı Telefon Siyah",
+     "product_prices":"2499.00"
+  },
+  {
+     "product_id":"1212368",
+     "product_name":"HUAWEI P Smart 2021 128GB Akıllı Telefon Tutku Yeşili",
+     "product_prices":"3399.00"
+  },
+  {
+     "product_id":"1216090",
+     "product_name":"GENERAL MOBILE GM21 32GB Akıllı Telefon Açık Mavi",
+     "product_prices":"1599.00"
+  },
+  {
+     "product_id":"1211054",
+     "product_name":"XIAOMI Redmi 9A 32GB Akıllı Telefon Granit Gri",
+     "product_prices":"2197.00"
+  },
+  {
+     "product_id":"1210943",
+     "product_name":"SAMSUNG Galaxy Note 20 Akıllı Telefon Mistik Yeşil",
+     "product_prices":"7449.00"
+  },
+  {
+     "product_id":"1216360",
+     "product_name":"SAMSUNG Galaxy S20 FE 128GB Akıllı Telefon Beyaz",
+     "product_prices":"5399.00"
+  },
+  {
+     "product_id":"1215407",
+     "product_name":"OPPO Reno 5 Lite 128GB Akıllı Telefon Aurora Moru",
+     "product_prices":"3699.00"
+  },
+  {
+     "product_id":"1213314",
+     "product_name":"VIVO Y70 8/128GB Akıllı Telefon Oxygen Mavi",
+     "product_prices":"3499.00"
+  },
+  {
+     "product_id":"1213313",
+     "product_name":"VIVO Y70 128GB Akıllı Telefon Gravity Siyah",
+     "product_prices":"3499.00"
+  },
+  {
+     "product_id":"1211827",
+     "product_name":"XIAOMI Redmi 9C 32GB Akıllı Telefon Gri",
+     "product_prices":"1999.00"
+  },
+  {
+     "product_id":"1216096",
+     "product_name":"XIAOMI MI 11 Lite 128GB Akıllı Telefon Siyah",
+     "product_prices":"4449.00"
+  },
+  {
+     "product_id":"1217382",
+     "product_name":"XIAOMI Note10S 64GB Akıllı Telefon Beyaz",
+     "product_prices":"3649.00"
+  },
+  {
+     "product_id":"1213312",
+     "product_name":"VIVO Y20 64GB Akıllı Telefon Nebula Mavi",
+     "product_prices":"2499.00"
+  },
+  {
+     "product_id":"1215399",
+     "product_name":"XIAOMI Redmi Note 10 6GB/128GB Akıllı Telefon Gri",
+     "product_prices":"3899.00"
+  },
+  {
+     "product_id":"1215079",
+     "product_name":"SAMSUNG Galaxy A72 128GB Akıllı Telefon Mavi",
+     "product_prices":"5199.00"
+  },
+  {
+     "product_id":"1216389",
+     "product_name":"REALME RMX3201 C 21 64GB Akıllı Telefon Çapraz Mavi",
+     "product_prices":"2299.00"
+  },
+  {
+     "product_id":"1214185",
+     "product_name":"SAMSUNG Galaxy A21s 128 GB Akıllı Telefon Mavi",
+     "product_prices":"3099.00"
+  },
+  {
+     "product_id":"1215459",
+     "product_name":"XIAOMI Poco X3 128GB Akıllı Telefon Gri",
+     "product_prices":"4249.00"
+  },
+  {
+     "product_id":"1216089",
+     "product_name":"GENERAL MOBILE GM21 Plus 64GB Akıllı Telefon Yeşil",
+     "product_prices":"1999.00"
+  },
+  {
+     "product_id":"1213073",
+     "product_name":"XIAOMI Redmi 9C 64GB Akıllı Telefon Gri",
+     "product_prices":"2399.00"
+  },
+  {
+     "product_id":"1213501",
+     "product_name":"GENERAL MOBILE GM 20 64GB Akıllı Telefon Gece Kırmızısı",
+     "product_prices":"1799.00"
+  },
+  {
+     "product_id":"1216337",
+     "product_name":"XIAOMI Redmi 9T 4GB/128GB Akıllı Telefon Mavi",
+     "product_prices":"2799.00"
+  },
+  {
+     "product_id":"1214187",
+     "product_name":"SAMSUNG Galaxy A21S 128 GB Akıllı Telefon Siyah",
+     "product_prices":"3099.00"
+  },
+  {
+     "product_id":"1216146",
+     "product_name":"ONEPLUS N10 128GB Akıllı Telefon Siyah",
+     "product_prices":"4299.00"
+  },
+  {
+     "product_id":"1216038",
+     "product_name":"XIAOMI Note 10 Pro 128GB Akıllı Telefon Bronz",
+     "product_prices":"4799.00"
+  },
+  {
+     "product_id":"1216152",
+     "product_name":"REALME C25 64GB Akıllı Telefon Su Mavisi",
+     "product_prices":"2599.00"
+  },
+  {
+     "product_id":"1216390",
+     "product_name":"REALME RMX3201 C 21 64GB Akıllı Telefon Çapraz Siyah",
+     "product_prices":"2299.00"
+  },
+  {
+     "product_id":"1217077",
+     "product_name":"SAMSUNG Galaxy Z FOLD3 5G 256GB Akıllı Telefon Siyah",
+     "product_prices":"21999.00"
+  },
+  {
+     "product_id":"1216654",
+     "product_name":"TCL 20 SE 64GB Akıllı Teleofon Aurora Yeşil",
+     "product_prices":"2799.00"
+  },
+  {
+     "product_id":"1216308",
+     "product_name":"XIAOMI Redmi 9T 128GB Akıllı Telefon Turuncu",
+     "product_prices":"2799.00"
+  },
+  {
+     "product_id":"1217078",
+     "product_name":"SAMSUNG Galaxy Z FOLD3 5G 256GB Akıllı Telefon Gümüş",
+     "product_prices":"21999.00"
+  },
+  {
+     "product_id":"1215078",
+     "product_name":"SAMSUNG Galaxy A72 128GB Akıllı Telefon Siyah",
+     "product_prices":"5199.00"
+  },
+  {
+     "product_id":"1215080",
+     "product_name":"SAMSUNG Galaxy A72 128GB Akıllı Telefon Light Violet",
+     "product_prices":"5199.00"
+  },
+  {
+     "product_id":"1217244",
+     "product_name":"XIAOMI MI11 LITE 6GB/128GB Akıllı Telefon Mavi",
+     "product_prices":"4849.00"
+  },
+  {
+     "product_id":"1209195",
+     "product_name":"HUAWEI P40 Lite 128 GB Akıllı Telefon Yeşil",
+     "product_prices":"3799.00"
+  },
+  {
+     "product_id":"1216859",
+     "product_name":"VIVO V21 8/128GB Akıllı Telefon Alacakaranlık Mavi",
+     "product_prices":"5299.00"
+  },
+  {
+     "product_id":"1215942",
+     "product_name":"SAMSUNG Galaxy S20 FE 128GB Akıllı Telefon Nane Yeşili",
+     "product_prices":"5399.00"
+  },
+  {
+     "product_id":"1216148",
+     "product_name":"REALME C25 64GB Akıllı Telefon Su Grisi",
+     "product_prices":"2599.00"
+  },
+  {
+     "product_id":"1216861",
+     "product_name":"VIVO V21E 8/128GB Akıllı Telefon Elmas Mavi",
+     "product_prices":"4699.00"
+  },
+  {
+     "product_id":"1211828",
+     "product_name":"XIAOMI Redmi 9C 32GB Akıllı Telefon Mavi",
+     "product_prices":"1999.00"
+  },
+  {
+     "product_id":"1217093",
+     "product_name":"VIVO V21 8/128GB Akıllı Telefon Günbatımı Ritmi",
+     "product_prices":"5299.00"
+  },
+  {
+     "product_id":"1213500",
+     "product_name":"GENERAL MOBILE GM20 Akıllı Telefon Gece Mavisi",
+     "product_prices":"1799.00"
+  },
+  {
+     "product_id":"1215409",
+     "product_name":"OPPO Reno 5 128GB Akıllı Telefon Işıltılı Siyah",
+     "product_prices":"4999.00"
+  },
+  {
+     "product_id":"1212366",
+     "product_name":"HUAWEI P Smart 2021 128GB Akıllı Telefon Gece Yarısı Siyahı",
+     "product_prices":"3399.00"
+  },
+  {
+     "product_id":"1211542",
+     "product_name":"ALCATEL 1SE 64GB Akıllı Telefon Koyu Gri",
+     "product_prices":"1899.00"
+  },
+  {
+     "product_id":"1213628",
+     "product_name":"SAMSUNG Galaxy S21 5G Akıllı Telefon Pembe",
+     "product_prices":"8999.00"
+  },
+  {
+     "product_id":"1213627",
+     "product_name":"SAMSUNG Galaxy S21 5G Akıllı Telefon Gri",
+     "product_prices":"9399.00"
+  },
+  {
+     "product_id":"1217076",
+     "product_name":"SAMSUNG Galaxy Z Flip3 5G 128GB Akıllı Telefon Violet",
+     "product_prices":"11999.00"
+  },
+  {
+     "product_id":"1216860",
+     "product_name":"VIVO V21E 8/128GB Akıllı Telefon Roma Siyah",
+     "product_prices":"4699.00"
+  },
+  {
+     "product_id":"1215458",
+     "product_name":"XIAOMI Poco X3 128GB Akıllı Telefon Mavi",
+     "product_prices":"4249.00"
+  },
+  {
+     "product_id":"1217080",
+     "product_name":"SAMSUNG Galaxy Z FOLD3 5G 256GB Akıllı Telefon Yeşil",
+     "product_prices":"21999.00"
+  },
+  {
+     "product_id":"1216145",
+     "product_name":"ONEPLUS 9 5G 128GB Akıllı Telefon Uzay Siyahı",
+     "product_prices":"12499.00"
+  },
+  {
+     "product_id":"1212367",
+     "product_name":"HUAWEI P Smart 2021 128GB Akıllı Telefon Rose Gold",
+     "product_prices":"3399.00"
+  },
+  {
+     "product_id":"1209193",
+     "product_name":"HUAWEI P40 Lite 128GB Akıllı Telefon Siyah",
+     "product_prices":"3799.00"
+  },
+  {
+     "product_id":"1212936",
+     "product_name":"XIAOMI Redmi 9C 64GB Akıllı Telefon Turuncu",
+     "product_prices":"2399.00"
+  },
+  {
+     "product_id":"1215941",
+     "product_name":"SAMSUNG Galaxy S20 FE 128GB Akıllı Telefon Lacivert",
+     "product_prices":"5399.00"
+  },
+  {
+     "product_id":"1212935",
+     "product_name":"XIAOMI Redmi 9C 64GB Akıllı Telefon Mavi",
+     "product_prices":"2399.00"
+  },
+  {
+     "product_id":"1213638",
+     "product_name":"SAMSUNG Galaxy S21 Ultra 5G 128GB Akıllı Telefon Gümüş",
+     "product_prices":"14999.00"
+  },
+  {
+     "product_id":"1216042",
+     "product_name":"GENERAL MOBILE GM21 32GB Akıllı Telefon Koyu Mavi",
+     "product_prices":"1599.00"
+  },
+  {
+     "product_id":"1216172",
+     "product_name":"VIVO Y11S 32GB Akıllı Telefon Phantom Siyah",
+     "product_prices":"2199.00"
+  },
+  {
+     "product_id":"1217074",
+     "product_name":"SAMSUNG Galaxy Z Flip3 5G 128GB Akıllı Telefon Siyah",
+     "product_prices":"11999.00"
+  }
+]
